@@ -4,4 +4,4 @@ login/registration page using HTML and CSS
 
 
 
-visit link : hiralsathwara.github.io/login-page/
+visit link :  https://hiralsathwara.github.io/login-page/
